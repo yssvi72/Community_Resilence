@@ -1,5 +1,5 @@
 # Community_Resilence
-HACK X, SFIT
+HACK X Hackathon 
 
 TEAM NAME: 404TeamFound
 PROBLEM STATEMENT
